@@ -10,4 +10,19 @@ Each round you will know whether you have been able to guess the appropriate cha
 
 ## Example
 strat of the game:
-[](game_images/guess.jpg)
+
+
+![](game_images/start.jpg)
+
+
+player is guessing: 
+
+
+
+![](game_images/guess.jpg)
+
+
+if lost:
+![](game_images/lost.jpg)
+
+in order to quit the fame, you shoult write "exit".
